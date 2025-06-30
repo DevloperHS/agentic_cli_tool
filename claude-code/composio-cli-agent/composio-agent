@@ -1,0 +1,20 @@
+#!/usr/bin/env python3
+"""
+Composio CLI Agent - Entry point script
+"""
+import sys
+import warnings
+from pathlib import Path
+
+# Suppress warnings for clean output
+warnings.filterwarnings("ignore", category=RuntimeWarning, module="runpy")
+
+# Add the project root to the Python path
+project_root = Path(__file__).parent
+if str(project_root) not in sys.path:
+    sys.path.insert(0, str(project_root))
+
+from cli.main import main
+
+if __name__ == "__main__":
+    main()
