@@ -1,5 +1,5 @@
 # Agentic_CLI 
-A versatile command-line interface (CLI) agent powered by the Composio Multi-Cloud Platform (MCP) SDK.
+A versatile command-line interface (CLI) agent powered by the Composio Platform (Tools / MCP) SDK.
 
 ---
 # Demo 
