@@ -10,3 +10,7 @@ https://github.com/user-attachments/assets/3344c263-0c94-4435-aee8-c3c404fcf922
 ## Gemini CLI Build 
 https://github.com/user-attachments/assets/07c8ed9e-55a0-4761-8ce6-2a13fee4e076
 
+Build with 
+
+![image](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) . ![image](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
